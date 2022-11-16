@@ -11,6 +11,7 @@ I do not own any of the recipes mentioned in this project. The recipes on this p
 
 Recipes:
 https://www.simplyrecipes.com/recipes/homemade_pepperoni_pizza/
+https://www.myrecipes.com/recipe/classic-burger
 
 Pictures:
 https://depositphotos.com/stock-photos/pepperoni-pizza.html
