@@ -12,7 +12,9 @@ I do not own any of the recipes mentioned in this project. The recipes on this p
 Recipes:
 https://www.simplyrecipes.com/recipes/homemade_pepperoni_pizza/
 https://www.myrecipes.com/recipe/classic-burger
+https://houseofyumm.com/best-ever-taco-meat/
 
 Pictures:
 https://depositphotos.com/stock-photos/pepperoni-pizza.html
 https://www.nytimes.com/2021/07/19/dining/better-burger-recipe.html
+https://depositphotos.com/stock-photos/tacos.html
