@@ -5,7 +5,7 @@ Hello friends! This is CDog and also my first TOP project of the curriculum! Tod
 
 --- DISCLAIMER ---
 
-I do not own any of the recipes mentioned in this project. The recipes on this project are also just for demonstrative purposes, please do not try to use them at home! I will leave links to the recipes I partially used in this project here as I work through and code each file. Thanks for reading and I hope you like the website!
+I do not own any of the recipes mentioned in this project. The recipes on this project are also just for demonstrative purposes, please do not try to use them at home! Also TOP is mentioned a great deal throughout this project as well, however their opinions of the recipes are all written by me. I have written text within those tags to illustrate my knowledge of HTML, nothing more. I will leave links to the recipes I partially used in this project here as I work through and code each file. Thanks for reading and I hope you like the website!
 
 ------------------
 
