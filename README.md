@@ -9,5 +9,9 @@ I do not own any of the recipes mentioned in this project. The recipes on this p
 
 ------------------
 
-Links:
+Recipes:
 https://www.simplyrecipes.com/recipes/homemade_pepperoni_pizza/
+
+Pictures:
+https://depositphotos.com/stock-photos/pepperoni-pizza.html
+https://www.nytimes.com/2021/07/19/dining/better-burger-recipe.html
