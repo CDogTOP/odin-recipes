@@ -5,6 +5,9 @@ Hello friends! This is CDog and also my first TOP project of the curriculum! Tod
 
 --- DISCLAIMER ---
 
-I do not own any of the recipes mentioned in this project. The recipes on this project are also just for demonstrative purposes, please do not try to use them at home! I will leave links to the recipes I use in this project here as I work through and code each file. Thanks for reading and I hope you like the website!
+I do not own any of the recipes mentioned in this project. The recipes on this project are also just for demonstrative purposes, please do not try to use them at home! I will leave links to the recipes I partially used in this project here as I work through and code each file. Thanks for reading and I hope you like the website!
 
 ------------------
+
+Links:
+https://www.simplyrecipes.com/recipes/homemade_pepperoni_pizza/
