@@ -4,11 +4,13 @@ body {
     align-items: center;
 }
 
-h1, h2, p {
+h1, h2 {
     text-align: center;
+    font-family: 'Satisfy', cursive, sans-serif;
 }
 
-h1, h2 {
+ul, ol, p, a {
+    font-family: 'Signika Negative', sans-serif;
 }
 
 img {
