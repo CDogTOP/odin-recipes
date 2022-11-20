@@ -1,18 +1,18 @@
-#homepage {
-    background-color: rgba(0, 134, 167, .5);
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-h1 {
-    font-size: 48px;
-    font-family: 'Lobster', cursive;
-    text-align: center;
-    color: rgb(0, 37, 58);
-}
-
-.list-container {
+h1, h2, p {
     text-align: center;
 }
 
-.list-container a {
-    color: rgb(0, 37, 58);
+h1, h2 {
 }
+
+img {
+    width: 600px;
+    height: auto;
+}
+
