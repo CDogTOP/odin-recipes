@@ -1,3 +1,32 @@
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+p {
+    text-align: center;
+    font-size: 21px;
+}
+
+#homepage {
+    background-color: aliceblue;
+}
+
+#pizza {
+    background-color: rgba(240, 128, 128, .4);
+}
+
+#burger {
+    background-color: rgba(61, 41, 27, 0.6);
+}
+
+#tacos {
+    background-color: lightyellow;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -17,4 +46,5 @@ img {
     width: 600px;
     height: auto;
 }
+
 
